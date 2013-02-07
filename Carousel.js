@@ -96,7 +96,7 @@
                     $prev.removeAttr("disabled").css('opacity', "");
                     $prev.attr({ title: 'Previous' });
                     left = $scrollSlider.scrollLeft();
-                    if (left <= ($item.length * width)) {
+                    if (left <= ($item.length * width-10)) {
                         $scrollSlider.animate({ scrollLeft: left + width }, $speed);
                     }
                     if (left == ($conveyor.width() - $scrollSlider.width()-1)) {
