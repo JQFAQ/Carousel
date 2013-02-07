@@ -18,7 +18,7 @@
         options: {
             previous: null,
             next: null,
-            speed: 200,
+            speed: 20,
             mouseWheel: false,
             scroll: 1,
             auto:null
