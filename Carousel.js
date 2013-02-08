@@ -176,18 +176,18 @@
             }
             
             //Select the theme name send to URI
-            $item.bind("touchstart click", function () {
-                var selectedValue = this.id;
-                navigateToNewPagewith('theme' + '=' + selectedValue + '', left);
-            });
+           // $item.bind("touchstart click", function () {
+           //     var selectedValue = this.id;
+            //    navigateToNewPagewith('theme' + '=' + selectedValue + '', left);
+           // });
 
             //Add the theme name and scroll value to the URI and refresh the page
-            function navigateToNewPagewith(newParam, current) {
-                var val = window.location.href.indexOf('?');
-                var index = val == -1 ? window.location.href.length : val;
-                var href = window.location.href.substring(0, index);
-                window.location.replace(href + '?' + newParam + '+' + current);
-            }
+           // function navigateToNewPagewith(newParam, current) {
+           //     var val = window.location.href.indexOf('?');
+           //     var index = val == -1 ? window.location.href.length : val;
+           //     var href = window.location.href.substring(0, index);
+           //     window.location.replace(href + '?' + newParam + '+' + current);
+           // }
 
             function startPrevScrolling() {
                 // start increasing scroll position in Prevois position
