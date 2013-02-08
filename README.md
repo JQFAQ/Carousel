@@ -5,11 +5,11 @@ Documentation:
 
 Features
 ========
-*Options
-*PC and Touch Devices Support 
-*Easy customization 
-*Supporting Themes
-Options
+*Options                                                                                         
+*PC and Touch Devices Support                                                                                         
+*Easy customization                                                                                          
+*Supporting Themes                                                                                         
+Options                                                                                         
 =======
 Carousel widgets support some default options with some default values to customize our widgets. A list of all the available options and there default value
 
