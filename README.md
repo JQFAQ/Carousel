@@ -2,7 +2,7 @@
 Documentation:
 =============
   The carousel slider widget is completely customizable in terms of appearance and offers numerous configuration options like mouse wheel and keyboard support, smooth or step-based slider and Touch.
-
+  For Example <a href="http://jsfiddle.net/wPwCj/14/">Please click here</a>
 Features
 ========
 *Options                                                                                         
