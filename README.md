@@ -1,5 +1,4 @@
-                                             Carousel
-                                             ========
+                                            
 Documentation:
 =============
   The carousel slider widget is completely customizable in terms of appearance and offers numerous configuration options like mouse wheel and keyboard support, smooth or step-based slider and Touch.
@@ -14,11 +13,11 @@ Options
 =======
 Carousel widgets support some default options with some default values to customize our widgets. A list of all the available options and there default value
 
-Previous:null-What is the name of the previous button?                                                      
-Next:null- What is the name of the next button?                                                              
-Speed:200- Set the speed of the slider to scroll.                                                       
-Mousewheel:false- Whether slider needs mousewheel or not?                                                  
-Auto:false- Is slider is going work automatically or not?                                                  
+Previous:   null-  What is the name of the previous button?                                                                                          
+Next:       null-  What is the name of the next button?                                                              
+Speed:      200-   Set the speed of the slider to scroll.                                                       
+Mousewheel: false- Whether slider needs mousewheel or not?                                                  
+Auto:       false- Is slider is going work automatically or not?                                                  
 
 PC, Touch & Mobile Devices Support
 =================================
