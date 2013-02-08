@@ -1,4 +1,5 @@
                                              Carousel
+                                             --------
 Documentation:
 =============
   The carousel slider widget is completely customizable in terms of appearance and offers numerous configuration options like mouse wheel and keyboard support, smooth or step-based slider and Touch.
@@ -11,7 +12,7 @@ Features
 *Supporting Themes
 Options
 =======
-	Carousel widgets support some default options with some default values to customize our widgets. A list of all the available options and there default value
+Carousel widgets support some default options with some default values to customize our widgets. A list of all the available options and there default value
 
 Previous:null-What is the name of the previous button?
 
@@ -30,4 +31,4 @@ Carousel is stored in a separate CSS file which makes it easy to export, customi
 
 Supporting Themes
 =================
-	Carousel slider widget is designed to supporting the all themes of jquery themes. You can download your custom theme from jquery theme roller, which can be applying to carousel widget.
+Carousel slider widget is designed to supporting the all themes of jquery themes. You can download your custom theme from jquery theme roller, which can be applying to carousel widget.
