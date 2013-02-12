@@ -1,32 +1,27 @@
                                             
 Documentation:
 =============
-  The carousel slider widget is completely customizable in terms of appearance and offers numerous configuration options like mouse wheel and keyboard support, smooth or step-based slider and Touch.
-  For Example <a href="http://jsfiddle.net/wPwCj/14/">Please click here</a>
-Features
-========
-*Options                                                                                         
-*PC and Touch Devices Support                                                                                         
-*Easy customization                                                                                          
-*Supporting Themes                                                                                         
-Options                                                                                         
-=======
-Carousel widgets support some default options with some default values to customize our widgets. A list of all the available options and there default value
+  The carousel slider widget is ideal for displaying scrollable thumb nail images. The widget supports jQuery UI Themes, supports mouse wheel and keyboard, smooth or step-based slider and also Touch based scrolling in mobile devices.    
+  All major browsers are also supported.
+  For Example <a href="http://jsfiddle.net/wPwCj/14/">Please click here</a>              
+<strong>Features</strong>                                                                                                 
+<strong>Options</strong>           
+Here are the widget’s options and their default values:
 
-Previous:   null-  What is the name of the previous button?                                                                                          
-Next:       null-  What is the name of the next button?                                                              
-Speed:      200-   Set the speed of the slider to scroll.                                                       
-Mousewheel: false- Whether slider needs mousewheel or not?                                                  
-Auto:       false- Is slider is going work automatically or not?                                                  
+Previous:   null-  Specifies the name of the previous button                                                                                                
+Next:       null- Specifies the name of the next button.                                                                     
+Speed:      200-   Specifies the speed at which the slider should scroll.                                                                 
+Mousewheel: false- Specifies whether or not to scroll on mouse wheel.                                                       
+Auto:       false- Specifies if the widget should automatically scroll after load.
+                                                  
 
-PC, Touch & Mobile Devices Support
-=================================
-Carousel can supports all desktop and mobile and Touch devises.It supports all web browsers like Internet Explorer ,Firefox ,Safari , Google Chrome, etc.It is also supports Mobiles like Android, Mobile Safari(iphone, ipad). Carousel automatically detects the web browser’s type and adjusts its internal behavior. You can easily use this widget even on touch devices. When the Slider detects that its running on a touch-enabled device, it turns on its built-in touch behavior. Users will have the same sliding experience when using this widget on Touch-device and PC.
+<strong>PC, Touch & Mobile Devices Support</strong>             
+Carousel widget has full support for sliding through Touch in mobile devices.
 
-Easy customization
-==================
-Carousel is stored in a separate CSS file which makes it easy to export, customize and re-use. You can customize Carousel to view and height and width of the widget.
 
-Supporting Themes
-=================
-Carousel slider widget is designed to supporting the all themes of jquery themes. You can download your custom theme from jquery theme roller, which can be applying to carousel widget.
+<strong>css customization</strong> </strong>             
+Carousel CSS can be customized easily to change its element’s height, etc.
+
+
+<strong>jQuery UI Themes</strong>             
+Carousel widget is built using the Theme Builder and so uses the styles specified in the currently loaded jQuery UI Theme in the web page.
