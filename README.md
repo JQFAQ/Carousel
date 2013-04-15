@@ -26,5 +26,6 @@ Carousel CSS can be customized easily to change its element’s height, etc.
 <strong>jQuery UI Themes</strong>             
 Carousel widget is built using the Theme Builder and so uses the styles specified in the currently loaded jQuery UI Theme in the web page.
         
-<strong>Sponsored By</strong> <a href="http://jqfaq.com/"><b>JQFAQ.com</b></a>                                   
+<strong>Sponsored By</strong><div><a href="http://radiantq.com/"><img src="http://jqfaq.com/wp-content/uploads/banner_468x60.jpg"</a></div>
+
 
